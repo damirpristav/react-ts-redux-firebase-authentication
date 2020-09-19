@@ -12,5 +12,5 @@ Create .env file and add firebase config object property values to env variables
 
 Check src/firebase/config.ts file to name them properly
 
-Then run ### `npm i` inside project root folder and after that ### `npm start`
+Then run `npm i` inside project root folder and after that `npm start`
 
