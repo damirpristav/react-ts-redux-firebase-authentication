@@ -1,7 +1,5 @@
 # react-ts-redux-firebase-authentication
 
-[Blog Post](https://codingfromscratch.dev/firebase-authentication-with-react-redux-and-typescript)
-
 # Getting started #
 
 Clone or download the files
